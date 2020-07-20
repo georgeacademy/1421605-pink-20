@@ -1,7 +1,7 @@
 # Личный проект «Пинк» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Неопозанный Летающий Енот](https://up.htmlacademy.ru/adaptive/20/user/1421605).
-* Наставник: `Неизвестно`.
+* Наставник: `Привет`.
 
 ---
 
